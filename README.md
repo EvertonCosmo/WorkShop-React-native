@@ -1,5 +1,5 @@
 # WorkShop-React-native
-Workshop ministrado na Federal University of Ceará about navigation v5 in react native  
+Workshop ministered na Federal University of Ceará about navigation v5 in react native  
 
 simple example using react-navigation V5 
 <br/>
